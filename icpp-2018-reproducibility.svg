@@ -1634,9 +1634,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="2864.3082"
-     inkscape:cy="2345.0908"
+     inkscape:zoom="0.22321429"
+     inkscape:cx="2208"
+     inkscape:cy="2016"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2400,7 +2400,7 @@
     <use
        id="use94595"
        transform="matrix(4.5714282,0,0,4.5714282,-123.25196,60.507747)"
-       style="fill:#009100;stroke:none"
+       style="fill:#2d2d2d;stroke:none;fill-opacity:1"
        xlink:href="#icon-loop-alt2"
        x="0"
        y="0"
@@ -2409,7 +2409,7 @@
     <use
        id="use94633"
        transform="matrix(4.5714282,0,0,4.5714282,-123.25196,-138.1064)"
-       style="fill:#009100;stroke:none"
+       style="fill:#2d2d2d;stroke:none;fill-opacity:1"
        xlink:href="#icon-arrow-down"
        x="0"
        y="0"
@@ -2421,7 +2421,7 @@
        y="0"
        x="0"
        xlink:href="#icon-arrow-down"
-       style="fill:#009100;stroke:none"
+       style="fill:#2d2d2d;stroke:none;fill-opacity:1"
        transform="matrix(4.5714282,0,0,4.5714282,-123.25196,-343.89526)"
        id="use94647" />
     <g
@@ -2584,7 +2584,7 @@
     <use
        id="use94868"
        transform="matrix(4.5714282,0,0,4.5714282,10.1619,159.49681)"
-       style="fill:#009100;stroke:none"
+       style="fill:#2d2d2d;stroke:none;fill-opacity:1"
        xlink:href="#icon-arrow-right"
        x="0"
        y="0"
@@ -2898,7 +2898,7 @@
        ry="3.848058e-06" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.51666640999999913px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="31.764751"
        y="-613.12427"
        id="text122627"><tspan
@@ -2906,7 +2906,7 @@
          id="tspan122625"
          x="31.764751"
          y="-613.12427"
-         style="stroke-width:0.26458332px">Closed Research</tspan></text>
+         style="stroke-width:0.26458332000000001px;-inkscape-font-specification:'Lato Bold';font-family:Lato;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Closed Research</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2922,9 +2922,9 @@
        id="text122651"
        y="-613.12427"
        x="263.3472"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.51666640999999913px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332px"
+         style="stroke-width:0.26458332000000001px;-inkscape-font-specification:'Lato Bold';font-family:Lato;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
          y="-613.12427"
          x="263.3472"
          id="tspan122649"
