@@ -1355,8 +1355,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22321429"
-     inkscape:cx="1457.6678"
-     inkscape:cy="1857.7184"
+     inkscape:cx="2207.9999"
+     inkscape:cy="1657.5999"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2540,5 +2540,18 @@
          id="rect91846"
          style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:#009100;stroke-width:2.85809875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30.591707"
+       y="-718.65546"
+       id="text91855"><tspan
+         sodipodi:role="line"
+         x="30.591707"
+         y="-718.65546"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.26458332px"
+         id="tspan91857">The open road: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan91861">A case study of reproducible research in plant pathology</tspan></tspan></text>
   </g>
 </svg>
