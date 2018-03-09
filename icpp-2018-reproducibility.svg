@@ -1478,9 +1478,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16067616"
-     inkscape:cx="3225.4064"
-     inkscape:cy="2639.9808"
+     inkscape:zoom="0.15783634"
+     inkscape:cx="3002.6527"
+     inkscape:cy="1772.1601"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1491,7 +1491,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
@@ -1562,6 +1562,13 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="247.65,533.4"
+       orientation="1,0"
+       id="guide122671"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1603,19 +1610,19 @@
        sodipodi:nodetypes="ssscccssssss" />
     <path
        style="opacity:1;vector-effect:none;fill:#f6ffdb;fill-opacity:1;fill-rule:nonzero;stroke:#009100;stroke-width:5.16164541;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.78160095;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 401.80961,-492.05298 h 397.88325 c 27.95824,0 50.46616,-3.66148 50.46616,46.70901 V 37.500461 c 0,50.370489 -22.50792,47.340614 -50.46616,47.340614 H 401.80961 c 0,0 -113.792,3.556 -156.00649,-19.520102 l -54.50933,-277.922733 62.5674,-279.40001 c 71.34899,0.33179 147.94842,-0.0512 147.94842,-0.0512 z"
+       d="m 401.80961,-492.05298 h 397.88325 c 27.95824,0 50.46616,-3.66148 50.46616,46.70901 V 37.500461 c 0,50.370489 -22.50792,47.340614 -50.46616,47.340614 H 401.80961 c 0,0 -100.75333,3.556 -156.00649,-19.520102 -48.35951,-20.197019 37.85499,-190.460283 67.58,-282.664063 19.7473,-61.25399 73.2354,-178.64668 73.2354,-178.64668 71.34899,0.33179 15.19109,-96.0632 15.19109,-96.0632 z"
        id="path94899"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssssccccc" />
+       sodipodi:nodetypes="csssscssccc" />
     <path
        sodipodi:nodetypes="ssssssscss"
        inkscape:connector-curvature="0"
        id="path92182"
-       d="m 254.03804,-94.96679 h 255.11165 c 16.36638,0 29.5422,11.06953 29.5422,24.81956 V 42.604233 c 0,13.75002 -13.17582,24.819547 -29.5422,24.819547 H 254.03804 c -16.36638,0 -60.54983,-31.283541 -72.58935,-40.597644 l -50.64372,-40.597649 50.64372,-40.59762 c 11.84095,-9.492087 56.22297,-40.597657 72.58935,-40.597657 z"
+       d="m 254.03804,-94.96679 h 255.11165 c 16.36638,0 29.5422,11.06953 29.5422,24.81956 V 42.604233 c 0,13.75002 -13.17582,24.819547 -29.5422,24.819547 H 254.03804 c -16.36638,0 -60.7126,-31.076857 -72.58935,-40.597644 l -50.64372,-40.597649 50.64372,-40.59762 c 11.84095,-9.492085 56.22297,-40.597657 72.58935,-40.597657 z"
        style="opacity:1;vector-effect:none;fill:#f0faff;fill-opacity:1;fill-rule:nonzero;stroke:#19aeff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.78160095;stroke-opacity:1;paint-order:markers fill stroke" />
     <path
        style="opacity:1;vector-effect:none;fill:#f0faff;fill-opacity:1;fill-rule:nonzero;stroke:#19aeff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.78160095;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 254.03804,-293.4843 h 255.11165 c 16.36638,0 29.5422,11.06953 29.5422,24.81956 v 112.75156 c 0,13.75003 -13.17582,24.81956 -29.5422,24.81956 H 254.03804 c -16.36638,0 -60.54983,-31.28356 -72.58935,-40.59767 l -50.64372,-40.59767 50.64372,-40.59767 c 11.84095,-9.4921 56.22297,-40.59767 72.58935,-40.59767 z"
+       d="m 254.03804,-293.4843 h 255.11165 c 16.36638,0 29.5422,11.06953 29.5422,24.81956 v 112.75156 c 0,13.75003 -13.17582,24.81956 -29.5422,24.81956 H 254.03804 c -16.36638,0 -60.7126,-31.07688 -72.58935,-40.59767 l -50.64372,-40.59767 50.64372,-40.59767 c 11.84095,-9.4921 56.22297,-40.59767 72.58935,-40.59767 z"
        id="rect92059"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssscss" />
@@ -1724,7 +1731,7 @@
        sodipodi:nodetypes="ssssssscss"
        inkscape:connector-curvature="0"
        id="path92064"
-       d="m 253.86119,-492.00177 h 255.2593 c 16.38256,0 29.5714,11.06953 29.5714,24.81956 v 112.75156 c 0,13.75003 -13.18884,24.81956 -29.5714,24.81956 h -255.2593 c -16.38255,0 -63.46652,-33.23425 -72.66113,-40.59767 l -50.69381,-40.59767 50.69381,-40.59767 c 11.85265,-9.4921 56.27858,-40.59767 72.66113,-40.59767 z"
+       d="m 253.86119,-492.00177 h 255.2593 c 16.38256,0 29.5714,11.06953 29.5714,24.81956 v 112.75156 c 0,13.75003 -13.18884,24.81956 -29.5714,24.81956 h -255.2593 c -16.38255,0 -63.46652,-33.23425 -72.66113,-40.59767 l -50.69381,-40.59767 50.69381,-40.59767 c 11.85266,-9.49209 56.27858,-40.59767 72.66113,-40.59767 z"
        style="opacity:1;vector-effect:none;fill:#f0faff;fill-opacity:1;fill-rule:nonzero;stroke:#19aeff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.78160095;stroke-opacity:1;paint-order:markers fill stroke" />
     <g
        id="g92039"
@@ -2729,29 +2736,15 @@
          x="591.48132"
          y="151.03467"
          style="stroke-width:0.26458332px">Case Study</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot122633"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:61.19999886%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,8.0994907,-769.80002)"><flowRegion
-         id="flowRegion122635"
-         style="line-height:61.19999886%"><rect
-           id="rect122637"
-           width="768"
-           height="432.64484"
-           x="99.821396"
-           y="653.03961"
-           style="line-height:61.19999886%" /></flowRegion><flowPara
-         id="flowPara122639"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:61.19999886%;font-family:Lato;-inkscape-font-specification:Lato">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>    <text
+    <text
        id="text122651"
        y="-613.12427"
-       x="260.68454"
+       x="263.3472"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332px"
          y="-613.12427"
-         x="260.68454"
+         x="263.3472"
          id="tspan122649"
          sodipodi:role="line">Open Research</tspan></text>
     <text
@@ -2798,5 +2791,85 @@
          x="99.19696"
          id="tspan122665"
          sodipodi:role="line">Peer Review</tspan></text>
-  </g>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,8.0994907,-769.80002)"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:50%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot122689"
+       xml:space="preserve"><flowRegion
+         style="line-height:50%;"
+         id="flowRegion122685"><rect
+           style="line-height:50%"
+           y="655.2796"
+           x="89.387756"
+           height="382.24481"
+           width="768"
+           id="rect122683" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara122687">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot122697"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:50%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,239.69645,-769.80002)"><flowRegion
+         id="flowRegion122693"
+         style="line-height:50%"><rect
+           id="rect122691"
+           width="768"
+           height="382.24481"
+           x="89.387756"
+           y="655.2796"
+           style="line-height:50%" /></flowRegion><flowPara
+         id="flowPara122695"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,462.59268,-769.80002)"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:50%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot122705"
+       xml:space="preserve"><flowRegion
+         style="line-height:50%"
+         id="flowRegion122701"><rect
+           style="line-height:50%"
+           y="655.2796"
+           x="89.387756"
+           height="382.24481"
+           width="768"
+           id="rect122699" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato"
+         id="flowPara122703">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot122711"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Lato;font-style:normal;font-weight:900;font-size:104px;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:start;-inkscape-font-specification:'Lato Heavy';font-stretch:normal;font-variant:normal;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion122713"><rect
+           id="rect122715"
+           width="11.2"
+           height="273.28"
+           x="412.16"
+           y="620.47998" /></flowRegion><flowPara
+         id="flowPara122717"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot122729"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:50%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,685.48892,-769.80002)"><flowRegion
+         id="flowRegion122725"
+         style="line-height:50%"><rect
+           id="rect122723"
+           width="768"
+           height="382.24481"
+           x="89.387756"
+           y="655.2796"
+           style="line-height:50%" /></flowRegion><flowPara
+         id="flowPara122727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,908.38515,-769.80002)"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:50%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot122737"
+       xml:space="preserve"><flowRegion
+         style="line-height:50%"
+         id="flowRegion122733"><rect
+           style="line-height:50%"
+           y="655.2796"
+           x="89.387756"
+           height="382.24481"
+           width="768"
+           id="rect122731" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato"
+         id="flowPara122735">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>  </g>
 </svg>
