@@ -1256,7 +1256,7 @@
        x2="432.47736"
        y2="-239.95602"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-50.800004,50.799967)" />
+       gradientTransform="matrix(0.99885395,0,0,1,-50.712675,50.799967)" />
     <symbol
        viewBox="0 0 64 64"
        id="emoji-2699">
@@ -1478,9 +1478,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.07891817"
-     inkscape:cx="1527.3451"
-     inkscape:cy="3145.8385"
+     inkscape:zoom="0.16067616"
+     inkscape:cx="3225.4064"
+     inkscape:cy="2639.9808"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1491,9 +1491,9 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true">
     <sodipodi:guide
@@ -1541,6 +1541,27 @@
     <inkscape:grid
        type="xygrid"
        id="grid90813" />
+    <sodipodi:guide
+       position="31.75,533.4"
+       orientation="1,0"
+       id="guide122641"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="234.95,533.4"
+       orientation="1,0"
+       id="guide122643"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="241.3,533.4"
+       orientation="1,0"
+       id="guide122669"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1575,14 +1596,14 @@
      id="layer1"
      transform="translate(0,769.80002)">
     <path
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient122864);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.00000003, 6.00000009000000034;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
-       d="M 25.40002,-642.80004 H 241.9773 c 10e-6,0 2e-5,10e-6 2e-5,2e-5 v 751.16264 h 291.42267 v 163.23736 l -291.42267,-7e-5 c 0,0 -1e-5,2e-5 -2e-5,2e-5 H 25.40002 c -10e-6,0 -2e-5,-10e-6 -2e-5,-2e-5 v -914.39993 c 0,-10e-6 1e-5,-2e-5 2e-5,-2e-5 z"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient122864);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99942678;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.99885365, 5.99656096;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 25.40002,-642.80004 h 216.32907 c 10e-6,0 2e-5,10e-6 2e-5,2e-5 V 108.36262 H 532.8178 v 163.23736 l -291.08869,-7e-5 c 0,0 -1e-5,2e-5 -2e-5,2e-5 H 25.40002 c -10e-6,0 -2e-5,-10e-6 -2e-5,-2e-5 v -914.39993 c 0,-10e-6 1e-5,-2e-5 2e-5,-2e-5 z"
        id="rect92057"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssscccssssss" />
     <path
        style="opacity:1;vector-effect:none;fill:#f6ffdb;fill-opacity:1;fill-rule:nonzero;stroke:#009100;stroke-width:5.16164541;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.78160095;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 401.80961,-510.04465 h 397.88325 c 27.95824,0 50.46616,-3.66148 50.46616,46.70901 V 37.500461 c 0,50.370489 -22.50792,47.340614 -50.46616,47.340614 H 401.80961 c 0,0 -113.792,3.556 -156.00649,-19.520102 l -54.50933,-277.922733 62.5674,-279.40001 c 62.57474,-18.11069 147.94842,-18.04288 147.94842,-18.04288 z"
+       d="m 401.80961,-492.05298 h 397.88325 c 27.95824,0 50.46616,-3.66148 50.46616,46.70901 V 37.500461 c 0,50.370489 -22.50792,47.340614 -50.46616,47.340614 H 401.80961 c 0,0 -113.792,3.556 -156.00649,-19.520102 l -54.50933,-277.922733 62.5674,-279.40001 c 71.34899,0.33179 147.94842,-0.0512 147.94842,-0.0512 z"
        id="path94899"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssccccc" />
@@ -2196,7 +2217,7 @@
     </g>
     <use
        id="use94595"
-       transform="matrix(4.5714282,0,0,4.5714282,-123.25196,55.21608)"
+       transform="matrix(4.5714282,0,0,4.5714282,-123.25196,60.507747)"
        style="fill:#000000;stroke:none"
        xlink:href="#icon-loop-alt2"
        x="0"
@@ -2205,7 +2226,7 @@
        height="100%" />
     <use
        id="use94633"
-       transform="matrix(4.5714282,0,0,4.5714282,-123.25196,-143.39807)"
+       transform="matrix(4.5714282,0,0,4.5714282,-123.25196,-138.1064)"
        style="fill:#000000;stroke:none"
        xlink:href="#icon-arrow-down"
        x="0"
@@ -2219,7 +2240,7 @@
        x="0"
        xlink:href="#icon-arrow-down"
        style="fill:#000000;stroke:none"
-       transform="matrix(4.5714282,0,0,4.5714282,-123.25196,-349.18693)"
+       transform="matrix(4.5714282,0,0,4.5714282,-123.25196,-343.89526)"
        id="use94647" />
     <g
        id="g122638"
@@ -2573,7 +2594,7 @@
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332px">Open Tools</tspan></text>
     <use
        id="use94471"
-       transform="matrix(6.8571427,0,0,6.8571427,713.23944,-318.12272)"
+       transform="matrix(6.8571427,0,0,6.8571427,702.6561,-318.12272)"
        xlink:href="#ic_cloud_done_24px"
        x="0"
        y="0"
@@ -2583,28 +2604,28 @@
     <text
        id="text94485"
        y="-463.53619"
-       x="1140.9763"
+       x="1130.3931"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px"
          y="-463.53619"
-         x="1140.9763"
+         x="1130.3931"
          id="tspan94483"
          sodipodi:role="line">System-Independent</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px"
          y="-438.1362"
-         x="1140.9763"
+         x="1130.3931"
          sodipodi:role="line"
          id="tspan94487">Analysis</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1140.9763"
+       x="1130.3931"
        y="-199.84155"
        id="text91825"><tspan
          id="tspan91823"
          sodipodi:role="line"
-         x="1140.9763"
+         x="1130.3931"
          y="-199.84155"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px">Tips and Tricks</tspan></text>
     <text
@@ -2678,5 +2699,104 @@
        xlink:href="#emoji-1f389"
        transform="matrix(4.8757658,0,0,4.8757658,220.93325,148.623)"
        id="use122621" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f7e2ff;fill-opacity:1;fill-rule:nonzero;stroke:#ba00ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect122623"
+       width="556.25159"
+       height="150.86752"
+       x="584.20422"
+       y="121.40557"
+       ry="3.848058e-06" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.764751"
+       y="-613.12427"
+       id="text122627"><tspan
+         sodipodi:role="line"
+         id="tspan122625"
+         x="31.764751"
+         y="-613.12427"
+         style="stroke-width:0.26458332px">Closed Research</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="591.48132"
+       y="151.03467"
+       id="text122631"><tspan
+         sodipodi:role="line"
+         id="tspan122629"
+         x="591.48132"
+         y="151.03467"
+         style="stroke-width:0.26458332px">Case Study</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot122633"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:61.19999886%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,8.0994907,-769.80002)"><flowRegion
+         id="flowRegion122635"
+         style="line-height:61.19999886%"><rect
+           id="rect122637"
+           width="768"
+           height="432.64484"
+           x="99.821396"
+           y="653.03961"
+           style="line-height:61.19999886%" /></flowRegion><flowPara
+         id="flowPara122639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:61.19999886%;font-family:Lato;-inkscape-font-specification:Lato">Traditional publishing requires only the final manuscript to be published. The data and analyses are not shared with the manuscript. Data and analyses cannot be easily inspected or assessed for accuracy. </flowPara></flowRoot>    <text
+       id="text122651"
+       y="-613.12427"
+       x="260.68454"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="-613.12427"
+         x="260.68454"
+         id="tspan122649"
+         sodipodi:role="line">Open Research</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120.61759"
+       y="-363.18143"
+       id="text122655"><tspan
+         sodipodi:role="line"
+         id="tspan122653"
+         x="120.61759"
+         y="-363.18143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.26458332px">Data</tspan></text>
+    <text
+       id="text122659"
+       y="-156.80653"
+       x="94.551239"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.26458332px"
+         y="-156.80653"
+         x="94.551239"
+         id="tspan122657"
+         sodipodi:role="line">Analysis/Code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.406731"
+       y="44.27681"
+       id="text122663"><tspan
+         sodipodi:role="line"
+         id="tspan122661"
+         x="73.406731"
+         y="44.27681"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.26458332px">Manuscript/Revisions</tspan></text>
+    <text
+       id="text122667"
+       y="250.6519"
+       x="99.19696"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:27.51666641px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.26458332px"
+         y="250.6519"
+         x="99.19696"
+         id="tspan122665"
+         sodipodi:role="line">Peer Review</tspan></text>
   </g>
 </svg>
