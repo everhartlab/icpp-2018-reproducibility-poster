@@ -1607,9 +1607,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22321429"
-     inkscape:cx="2208"
-     inkscape:cy="2016"
+     inkscape:zoom="0.63064385"
+     inkscape:cx="2766.8504"
+     inkscape:cy="1703.7499"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1620,11 +1620,12 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
     <sodipodi:guide
        position="584.2,1041.4"
        orientation="0,1"
@@ -1698,6 +1699,23 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="552.45,688.57561"
+       orientation="1,0"
+       id="guide126645"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="834.89411,673.78892"
+       orientation="1,0"
+       id="guide126797"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="594.87833,617.84383"
+       orientation="1,0"
+       id="guide126799"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -2559,12 +2577,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="274.46674"
-       y="-262.37842"
+       y="-261.9184"
        id="text122489"><tspan
          sodipodi:role="line"
          id="tspan122487"
          x="274.46674"
-         y="-262.37842"
+         y="-261.9184"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Open Source Code</tspan></text>
     <text
        xml:space="preserve"
@@ -2719,7 +2737,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777778px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="694.23505"
        y="-463.53619"
        id="text122874"><tspan
@@ -2727,7 +2745,7 @@
          id="tspan122872"
          x="694.23505"
          y="-463.53619"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332px">Open Tools</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777778px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332000000001px;">Open Tools</tspan></text>
     <use
        id="use94471"
        transform="matrix(6.8571427,0,0,6.8571427,702.6561,-318.12272)"
@@ -3073,7 +3091,7 @@
     </g>
     <g
        id="g126479"
-       transform="matrix(0.06400821,0,0,0.06400821,437.78653,-251.5989)">
+       transform="matrix(0.06400821,0,0,0.06400821,437.78653,-253.01748)">
       <rect
          mask="url(#mask126468)"
          ry="3.5763596e-06"
@@ -3121,18 +3139,18 @@
          id="flowRegion126487"
          style="line-height:0.5"><rect
            id="rect126489"
-           width="1057.28"
-           height="913.91998"
+           width="1058.8655"
+           height="422.3588"
            x="2096.6399"
            y="1232"
            style="line-height:0.5" /></flowRegion><flowPara
          id="flowPara126491"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato">The data and code are valuable for assessing the process of analysis, but does not ensure that it can be re-run by describing or providing the details of the software used for analysis, researchers can demonstrate computational reproducibility with a low barrier for entry. This can take several forms:</flowPara></flowRoot>    <g
-       transform="matrix(0.6,0,0,0.6,438.69975,-232.95168)"
-       id="g126554">
+       id="g126787"
+       transform="translate(0,-10.583333)">
       <g
          id="g126538"
-         transform="translate(93.98,22.577778)">
+         transform="matrix(0.6,0,0,0.6,478.36422,-274.2039)">
         <use
            height="100%"
            width="100%"
@@ -3150,50 +3168,52 @@
            style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00787401;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01574808, 6.04724423;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
       </g>
       <g
+         style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;stroke-width:1.66666663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(0.6,0,0,0.6,421.97622,-287.75057)"
          id="g126552">
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126540"
            d="m 821.88208,2764.0285 v -112 h 95.73334 95.73338 v 87.8688 87.8689 l -24.13556,24.1311 -24.1355,24.1312 h -71.59783 -71.59783 z m 136,76 v -20 h 20.00182 20.00182 l -0.13515,-76.1334 -0.13515,-76.1333 -80.13334,-0.1351 -80.13333,-0.135 v 96.2684 96.2684 h 60.26667 60.26666 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126542"
            d="m 861.88208,2782.4285 v -5.0667 h 27.73334 27.73333 v 5.0667 5.0666 h -27.73333 -27.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126544"
            d="m 861.88208,2761.0951 v -5.0666 h 55.73334 55.73333 v 5.0666 5.0667 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126546"
            d="m 861.88208,2739.7618 v -5.0667 h 55.73334 55.73333 v 5.0667 5.0667 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126548"
            d="m 861.88208,2718.4285 v -5.0667 h 55.73334 55.73333 v 5.0667 5.0666 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126550"
            d="m 861.88208,2697.0951 v -5.0666 h 55.73334 55.73333 v 5.0666 5.0667 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
       </g>
     </g>
     <g
-       id="g126621"
-       transform="matrix(0.6,0,0,0.6,438.69975,-164.15997)">
+       id="g126679"
+       transform="translate(0,-27.516665)">
       <g
-         transform="translate(93.98,22.577778)"
+         transform="matrix(0.6,0,0,0.6,478.36422,-150.6133)"
          id="g126605">
         <use
            id="use126601"
@@ -3212,39 +3232,41 @@
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)" />
       </g>
       <g
+         style="fill:#009100"
+         transform="matrix(0.6,0,0,0.6,421.97622,-164.15997)"
          id="g126619">
         <path
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
            d="m 821.88208,2764.0285 v -112 h 95.73334 95.73338 v 87.8688 87.8689 l -24.13556,24.1311 -24.1355,24.1312 h -71.59783 -71.59783 z m 136,76 v -20 h 20.00182 20.00182 l -0.13515,-76.1334 -0.13515,-76.1333 -80.13334,-0.1351 -80.13333,-0.135 v 96.2684 96.2684 h 60.26667 60.26666 z"
            id="path126607"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)" />
         <path
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
            d="m 861.88208,2782.4285 v -5.0667 h 27.73334 27.73333 v 5.0667 5.0666 h -27.73333 -27.73334 z"
            id="path126609"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)" />
         <path
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
            d="m 861.88208,2761.0951 v -5.0666 h 55.73334 55.73333 v 5.0666 5.0667 h -55.73333 -55.73334 z"
            id="path126611"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)" />
         <path
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
            d="m 861.88208,2739.7618 v -5.0667 h 55.73334 55.73333 v 5.0667 5.0667 h -55.73333 -55.73334 z"
            id="path126613"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)" />
         <path
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
            d="m 861.88208,2718.4285 v -5.0667 h 55.73334 55.73333 v 5.0667 5.0666 h -55.73333 -55.73334 z"
            id="path126615"
            inkscape:connector-curvature="0"
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)" />
         <path
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke"
            d="m 861.88208,2697.0951 v -5.0666 h 55.73334 55.73333 v 5.0666 5.0667 h -55.73333 -55.73334 z"
            id="path126617"
            inkscape:connector-curvature="0"
@@ -3252,11 +3274,11 @@
       </g>
     </g>
     <g
-       transform="matrix(0.6,0,0,0.6,438.69975,-95.368263)"
-       id="g126643">
+       id="g126750"
+       transform="translate(0,-37.041668)">
       <g
          id="g126627"
-         transform="translate(93.98,22.577778)">
+         transform="matrix(0.6,0,0,0.6,478.36422,-34.196593)">
         <use
            height="100%"
            width="100%"
@@ -3274,44 +3296,113 @@
            style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00787401;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.01574808, 6.04724423;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
       </g>
       <g
+         style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;stroke-width:1.66666663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(0.6,0,0,0.6,421.97622,-47.74326)"
          id="g126641">
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126629"
            d="m 821.88208,2764.0285 v -112 h 95.73334 95.73338 v 87.8688 87.8689 l -24.13556,24.1311 -24.1355,24.1312 h -71.59783 -71.59783 z m 136,76 v -20 h 20.00182 20.00182 l -0.13515,-76.1334 -0.13515,-76.1333 -80.13334,-0.1351 -80.13333,-0.135 v 96.2684 96.2684 h 60.26667 60.26666 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126631"
            d="m 861.88208,2782.4285 v -5.0667 h 27.73334 27.73333 v 5.0667 5.0666 h -27.73333 -27.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126633"
            d="m 861.88208,2761.0951 v -5.0666 h 55.73334 55.73333 v 5.0666 5.0667 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126635"
            d="m 861.88208,2739.7618 v -5.0667 h 55.73334 55.73333 v 5.0667 5.0667 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126637"
            d="m 861.88208,2718.4285 v -5.0667 h 55.73334 55.73333 v 5.0667 5.0666 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
         <path
            transform="matrix(0.26458333,0,0,0.26458333,0,-769.80002)"
            inkscape:connector-curvature="0"
            id="path126639"
            d="m 861.88208,2697.0951 v -5.0666 h 55.73334 55.73333 v 5.0666 5.0667 h -55.73333 -55.73334 z"
-           style="opacity:1;vector-effect:none;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.01574802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4.03149617, 12.09448852;stroke-dashoffset:3.77952766;stroke-opacity:1;paint-order:markers fill stroke" />
+           style="opacity:1;vector-effect:none;fill:#009100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.29921246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
       </g>
     </g>
-  </g>
+    <text
+       id="text126649"
+       y="-325.62891"
+       x="593.69299"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.75555611px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332px"
+         y="-325.62891"
+         x="593.69299"
+         id="tspan126647"
+         sodipodi:role="line">Research Compendium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="593.39667"
+       y="-218.97176"
+       id="text126653"><tspan
+         sodipodi:role="line"
+         id="tspan126651"
+         x="593.39667"
+         y="-218.97176"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.75555611px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332px">Installation Script</tspan></text>
+    <text
+       id="text126657"
+       y="-112.07993"
+       x="594.87836"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.75555611px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332px"
+         y="-112.07993"
+         x="594.87836"
+         id="tspan126655"
+         sodipodi:role="line">Virtual Machine</tspan></text>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,-626.92493)"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:0.5;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot126795"
+       xml:space="preserve"><flowRegion
+         style="line-height:0.5"
+         id="flowRegion126791"><rect
+           style="line-height:0.5"
+           y="1158.0052"
+           x="2248.3591"
+           height="350.47086"
+           width="907.1463"
+           id="rect126789" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato"
+         id="flowPara126793">This is a text file that contains a description of your operating system, and all the software packages used. For example, in R, this is accomplished with the command <flowSpan
+   style="-inkscape-font-specification:'Noto Mono';font-family:'Noto Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#2d2d2d"
+   id="flowSpan126801">sessionInfo()</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot126811"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:0.5;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-520.03319)"><flowRegion
+         id="flowRegion126805"
+         style="line-height:0.5"><rect
+           id="rect126803"
+           width="907.14618"
+           height="333.02832"
+           x="2248.3591"
+           y="1158.0052"
+           style="line-height:0.5" /></flowRegion><flowPara
+         id="flowPara126809"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato">This is a text file that contains all the commands necessary to install the software packages for analysis on a brand new computer, usually named <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+   id="flowSpan126815">install.R</flowSpan> or <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono'"
+   id="flowSpan126813">install.py</flowSpan></flowPara></flowRoot>  </g>
 </svg>
