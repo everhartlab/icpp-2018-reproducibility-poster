@@ -3303,16 +3303,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67119565"
-     inkscape:cx="3433.1805"
-     inkscape:cy="1889.7154"
+     inkscape:zoom="0.22321429"
+     inkscape:cx="2208"
+     inkscape:cy="2016"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      borderlayer="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="755"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -4451,7 +4451,7 @@
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.57777786px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';stroke-width:0.26458332px">Open Tools</tspan></text>
     <use
        id="use94471"
-       transform="matrix(2.2857142,0,0,2.2857142,789.16332,-340.42427)"
+       transform="matrix(3.4285713,0,0,3.4285713,688.77284,-345.71593)"
        xlink:href="#ic_cloud_done_24px"
        x="0"
        y="0"
@@ -35688,7 +35688,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara96507">Code that works on your computer may not work anywhere else. Use these strategies to prevent this</flowPara></flowRoot>    <switch
        id="switch96642"
-       transform="matrix(0.34007394,0,0,0.34007394,868.72603,-302.33233)">
+       transform="matrix(0.34007394,0,0,0.34007394,874.22098,-302.33233)">
       <g
          id="g96640">
         <g
@@ -35771,17 +35771,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="937.45178"
-       y="-369.13223"
-       id="text97980"><tspan
-         sodipodi:role="line"
-         id="tspan97978"
-         x="937.45178"
-         y="-369.13223"
-         style="stroke-width:0.26458332px">Test the code on a colleague's computer</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="941.71021"
        y="-328.98181"
        id="text97984"><tspan
@@ -35794,7 +35783,7 @@
        xml:space="preserve"
        id="flowRoot97986"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,9.7334389,-729.16646)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,9.7334389,-733.28057)"><flowRegion
          id="flowRegion97988"><rect
            id="rect97991"
            width="730.89026"
@@ -35809,7 +35798,7 @@
        width="38.099998"
        id="image0" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,9.7334389,-697.41644)"
+       transform="matrix(0.26458333,0,0,0.26458333,9.7334389,-697.23604)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot102232"
        xml:space="preserve"><flowRegion
@@ -35821,8 +35810,50 @@
            id="rect102226" /></flowRegion><flowPara
          id="flowPara102230">Docker container with continuous integration for automated analysis </flowPara></flowRoot>    <path
        id="path102279"
-       d="m 924.00035,-254.92088 c 0,-1.70192 1.3796,-3.06862 3.06863,-3.06862 1.68903,0 3.06862,1.37959 3.06862,3.06862 0,1.68904 -1.37959,3.06863 -3.06862,3.06863 -1.68903,0 -3.06863,-1.37959 -3.06863,-3.06863 z m 3.06863,-12.89339 c -6.02121,0 -11.06253,4.12589 -12.4937,9.69584 -0.0129,0.0387 -0.0129,0.0774 -0.0129,0.12893 0,0.33523 0.27076,0.61888 0.61888,0.61888 h 5.19604 c 0.24497,0 0.46416,-0.14183 0.55441,-0.36101 1.07015,-2.32081 3.41675,-3.94538 6.13726,-3.94538 3.72619,0 6.75614,3.02994 6.75614,6.75613 0,3.7262 -3.02995,6.75614 -6.75614,6.75614 -2.72051,0 -5.06711,-1.61167 -6.13726,-3.94537 -0.10314,-0.2063 -0.30944,-0.36102 -0.55441,-0.36102 h -5.19604 c -0.33523,0 -0.61888,0.27076 -0.61888,0.61888 0,0.0387 0.0129,0.0774 0.0129,0.12894 1.41827,5.56994 6.47249,9.69583 12.4937,9.69583 7.11715,0 12.89339,-5.77624 12.89339,-12.8934 0,-7.11715 -5.77624,-12.89339 -12.89339,-12.89339 z"
+       d="m 924.00035,-254.92086 c 0,-1.70192 1.3796,-3.06862 3.06863,-3.06862 1.68903,0 3.06862,1.37959 3.06862,3.06862 0,1.68904 -1.37959,3.06863 -3.06862,3.06863 -1.68903,0 -3.06863,-1.37959 -3.06863,-3.06863 z m 3.06863,-12.89339 c -6.02121,0 -11.06253,4.12589 -12.4937,9.69584 -0.0129,0.0387 -0.0129,0.0774 -0.0129,0.12893 0,0.33523 0.27076,0.61888 0.61888,0.61888 h 5.19604 c 0.24497,0 0.46416,-0.14183 0.55441,-0.36101 1.07015,-2.32081 3.41675,-3.94538 6.13726,-3.94538 3.72619,0 6.75614,3.02994 6.75614,6.75613 0,3.7262 -3.02995,6.75614 -6.75614,6.75614 -2.72051,0 -5.06711,-1.61167 -6.13726,-3.94537 -0.10314,-0.2063 -0.30944,-0.36102 -0.55441,-0.36102 h -5.19604 c -0.33523,0 -0.61888,0.27076 -0.61888,0.61888 0,0.0387 0.0129,0.0774 0.0129,0.12894 1.41827,5.56994 6.47249,9.69583 12.4937,9.69583 7.11715,0 12.89339,-5.77624 12.89339,-12.8934 0,-7.11715 -5.77624,-12.89339 -12.89339,-12.89339 z"
        inkscape:connector-curvature="0"
        style="fill:#009100;stroke-width:0.12893392" />
-  </g>
+    <use
+       id="use96505"
+       transform="matrix(2.2857142,0,0,2.2857142,790.82366,-382.68948)"
+       style="fill:#009100"
+       xlink:href="#ic_laptop_chromebook_24px"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use96537"
+       transform="matrix(3.4285713,0,0,3.4285713,688.77283,-383.81594)"
+       style="fill:#009100"
+       xlink:href="#ic_laptop_chromebook_24px"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-25.945203,-807.8209)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot96553"
+       xml:space="preserve"><flowRegion
+         id="flowRegion96549"><rect
+           y="1622.399"
+           x="3552.322"
+           height="129.33395"
+           width="658.19879"
+           id="rect96547" /></flowRegion><flowPara
+         id="flowPara96551"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Run and test analysis on a colleague's computer</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot96561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.529403,-762.49459)"><flowRegion
+         id="flowRegion96557"><rect
+           id="rect96555"
+           width="724.56952"
+           height="120.90593"
+           x="3552.322"
+           y="1622.399" /></flowRegion><flowPara
+         id="flowPara96559"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Run and test analysis on the cloud</flowPara></flowRoot>  </g>
 </svg>
