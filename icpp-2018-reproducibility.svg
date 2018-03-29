@@ -35855,5 +35855,14 @@
            x="3552.322"
            y="1622.399" /></flowRegion><flowPara
          id="flowPara96559"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Run and test analysis on the cloud</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold'">Run and test analysis on the cloud</flowPara></flowRoot>    <use
+       id="use96574"
+       transform="matrix(5.2244895,0,0,5.2244895,-139.087,-197.49417)"
+       style="fill:#19aeff;stroke:none"
+       xlink:href="#github-square"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
 </svg>
