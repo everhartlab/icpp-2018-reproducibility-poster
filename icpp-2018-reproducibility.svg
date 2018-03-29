@@ -3316,7 +3316,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
@@ -30929,8 +30929,8 @@
            style="line-height:0.5"
            y="1158.0052"
            x="2248.3591"
-           height="425.10416"
-           width="856.25989"
+           height="205.58412"
+           width="959.29999"
            id="rect97479" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara97485">Use version control — a lab notebook for code</flowPara><flowPara
@@ -30955,7 +30955,7 @@
          id="flowPara97495"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato">Solicit feedback from peers</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.5;font-family:Lato;-inkscape-font-specification:Lato"
-         id="flowPara96495">Have a raw, unformatted version after peer-review </flowPara></flowRoot>    <g
+         id="flowPara96495">Host accessible version after peer-review </flowPara></flowRoot>    <g
        id="g95112"
        transform="matrix(0.33451101,0,0,0.33451101,281.69855,-391.79172)">
       <g
