@@ -3359,9 +3359,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15783634"
-     inkscape:cx="1068.0952"
-     inkscape:cy="2120.935"
+     inkscape:zoom="0.22321429"
+     inkscape:cx="2208"
+     inkscape:cy="2016"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4614,16 +4614,16 @@
        clip-path="none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;line-height:100%;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35.27777778000000097px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="30.591707"
        y="-718.65546"
        id="text91855"><tspan
          sodipodi:role="line"
          x="30.591707"
          y="-718.65546"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35.27777778000000097px;font-family:Lato;-inkscape-font-specification:'Lato Light';stroke-width:0.26458332000000001px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
          id="tspan91857">The open road: <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.98611069px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35.27777778000000097px;font-family:Lato;-inkscape-font-specification:'Lato Light';text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
    id="tspan91861">A case study of reproducible research in plant pathology</tspan></tspan></text>
     <use
        id="use122561"
