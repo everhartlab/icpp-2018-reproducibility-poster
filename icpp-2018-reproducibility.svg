@@ -3416,6 +3416,61 @@
          width="100%"
          height="100%" />
     </mask>
+    <symbol
+       id="child"
+       viewBox="0 0 384 512">
+      <title
+         id="child-title">Child</title>
+      <path
+         style="stroke-width:0.01041667"
+         inkscape:connector-curvature="0"
+         d="M 1.25,0.75 C 1.25,0.33578125 1.5857813,0 2,0 2.4142187,0 2.75,0.33578125 2.75,0.75 2.75,1.1642083 2.4142187,1.5 2,1.5 1.5857813,1.5 1.25,1.1642083 1.25,0.75 Z M 3.9023646,0.7643021 C 3.7721979,0.634125 3.5611354,0.634125 3.4309688,0.76430208 L 2.5285937,1.6666667 H 1.4713958 L 0.56903125,0.76430208 c -0.13016667,-0.13017708 -0.34122917,-0.13017708 -0.47139583,0 -0.13017709,0.13017709 -0.13017709,0.34122912 0,0.47140622 L 1.0833333,2.2213958 V 5 c 0,0.1840937 0.1492396,0.3333333 0.3333334,0.3333333 H 1.5833333 C 1.7674271,5.3333333 1.9166667,5.1840937 1.9166667,5 V 3.8333333 H 2.0833333 V 5 c 0,0.1840937 0.1492396,0.3333333 0.3333334,0.3333333 H 2.5833333 C 2.7674271,5.3333333 2.9166667,5.1840937 2.9166667,5 V 2.2213958 L 3.9023646,1.2356979 c 0.1301771,-0.1301771 0.1301771,-0.34121873 0,-0.4713958 z"
+         id="path69749" />
+    </symbol>
+    <symbol
+       id="sitemap"
+       viewBox="0 0 640 512">
+      <title
+         id="sitemap-title">Sitemap</title>
+      <path
+         style="stroke-width:0.01041667"
+         inkscape:connector-curvature="0"
+         d="m 6.4166667,3.3333333 h -0.5 v -0.5 C 5.9166667,2.6035833 5.72975,2.4166667 5.5,2.4166667 H 3.5833333 V 2 h 0.5 c 0.1380729,0 0.25,-0.1119271 0.25,-0.25 v -1.5 c 0,-0.13807292 -0.1119271,-0.25 -0.25,-0.25 h -1.5 c -0.1380729,0 -0.25,0.11192708 -0.25,0.25 v 1.5 c 0,0.1380729 0.1119271,0.25 0.25,0.25 h 0.5 V 2.4166667 H 1.1666667 C 0.93691667,2.4166667 0.75,2.6035833 0.75,2.8333333 v 0.5 h -0.5 c -0.13807292,0 -0.25,0.1119271 -0.25,0.25 v 1.5 c 0,0.1380729 0.11192708,0.25 0.25,0.25 h 1.5 c 0.1380729,0 0.25,-0.1119271 0.25,-0.25 v -1.5 c 0,-0.1380729 -0.1119271,-0.25 -0.25,-0.25 H 1.25 V 2.9166667 h 1.8333333 v 0.4166666 h -0.5 c -0.1380729,0 -0.25,0.1119271 -0.25,0.25 v 1.5 c 0,0.1380729 0.1119271,0.25 0.25,0.25 h 1.5 c 0.1380729,0 0.25,-0.1119271 0.25,-0.25 v -1.5 c 0,-0.1380729 -0.1119271,-0.25 -0.25,-0.25 h -0.5 V 2.9166667 h 1.8333334 v 0.4166666 h -0.5 c -0.138073,0 -0.25,0.1119271 -0.25,0.25 v 1.5 c 0,0.1380729 0.111927,0.25 0.25,0.25 h 1.5 c 0.1380729,0 0.25,-0.1119271 0.25,-0.25 v -1.5 c 0,-0.1380729 -0.1119271,-0.25 -0.25,-0.25 z"
+         id="path70757" />
+    </symbol>
+    <symbol
+       id="users"
+       viewBox="0 0 640 512">
+      <title
+         id="users-title">Users</title>
+      <path
+         style="stroke-width:0.01041667"
+         inkscape:connector-curvature="0"
+         d="m 2.2916667,1.7083333 c 0,-0.5753021 0.466375,-1.04166663 1.0416666,-1.04166663 C 3.908625,0.66666667 4.375,1.1330312 4.375,1.7083333 4.375,2.2836354 3.908625,2.75 3.3333333,2.75 2.7580417,2.75 2.2916667,2.2836354 2.2916667,1.7083333 Z M 0.5,2.1666667 c 0,-0.4602396 0.37309375,-0.8333334 0.8333333,-0.8333334 0.4602396,0 0.8333334,0.3730938 0.8333334,0.8333334 C 2.1666667,2.6269062 1.7935729,3 1.3333333,3 0.87309375,3 0.5,2.6269062 0.5,2.1666667 Z m 4,0 c 0,-0.4602396 0.3730937,-0.8333334 0.8333333,-0.8333334 0.4602396,0 0.8333334,0.3730938 0.8333334,0.8333334 C 6.1666667,2.6269062 5.7935729,3 5.3333333,3 4.8730937,3 4.5,2.6269062 4.5,2.1666667 Z M 4.2708333,2.9583333 C 4.6735417,2.9583333 5,3.2847917 5,3.6875 v 0.7291667 c 0,0.1380729 -0.1119271,0.25 -0.25,0.25 H 1.9166667 c -0.138073,0 -0.25,-0.1119271 -0.25,-0.25 V 3.6875 c 0,-0.4027083 0.3264583,-0.7291667 0.7291666,-0.7291667 H 2.58175 c 0.462125,0.2779896 1.0409375,0.2780521 1.5031771,0 H 4.2708333 M 1.3333333,3.6875 c 0,-0.1247396 0.021677,-0.2445 0.061344,-0.3557917 -0.2284375,0.012 -0.45960418,-0.042927 -0.6626146,-0.1650416 H 0.58333333 C 0.26116667,3.1666667 0,3.4278333 0,3.75 v 0.3333333 c 0,0.1380729 0.11192708,0.25 0.25,0.25 h 1.0833333 z m 4.75,-0.5208333 H 5.9346042 C 5.7315312,3.2888229 5.500375,3.3437083 5.2719896,3.3317083 A 1.0577292,1.0577292 0 0 1 5.3333333,3.6875 v 0.6458333 h 1.0833334 c 0.1380729,0 0.25,-0.1119271 0.25,-0.25 V 3.75 c 0,-0.3221667 -0.2611667,-0.5833333 -0.5833334,-0.5833333 z"
+         id="path71109" />
+    </symbol>
+    <symbol
+       id="sign-language"
+       viewBox="0 0 448 512">
+      <title
+         id="sign-language-title">Sign Language</title>
+      <path
+         style="stroke-width:0.01041667"
+         inkscape:connector-curvature="0"
+         d="M 0.9524375,5.0415312 C 0.94923958,4.8746771 1.0889896,4.7381042 1.255875,4.7381042 H 1.9047604 V 4.6785833 H 0.59367708 c -0.16688541,0 -0.30663541,-0.1365729 -0.3034375,-0.3034271 0.003094,-0.1617083 0.135125,-0.2918229 0.29755209,-0.2918229 H 1.9047604 V 4.0238125 H 0.3035 C 0.13661458,4.0238125 -0.00313542,3.8872396 6.25e-5,3.7203854 0.00315625,3.5586979 0.13519792,3.4285833 0.297625,3.4285833 H 1.9047708 V 3.3690625 H 0.60111458 c -0.16688541,0 -0.30663541,-0.1365729 -0.3034375,-0.3034271 0.003094,-0.1616875 0.13513542,-0.2918021 0.2975625,-0.2918021 H 2.3511354 L 2.0273333,2.5383542 C 1.8943958,2.4416771 1.8650104,2.2555521 1.9616875,2.1226042 2.0583646,1.9896771 2.2445,1.9602917 2.3774375,2.0569583 l 1.2850104,0.9345313 a 0.35715625,0.35715625 0 0 1 0.1470834,0.2888333 v 1.4701667 c 0,0.1657292 -0.1140209,0.3096875 -0.2753438,0.3476458 L 2.6959479,5.2953646 A 1.42875,1.42875 0 0 1 2.36875,5.3333438 H 1.25 C 1.0875729,5.3333333 0.95553125,5.2032188 0.9524375,5.0415312 Z M 1.7154479,2.6904792 H 2.0948542 L 1.9783229,2.6057292 C 1.7847917,2.4649896 1.7667292,2.1798229 1.9453021,2.0168125 L 1.8098437,1.8428542 C 1.7073125,1.7111771 1.5136979,1.6848229 1.3840104,1.7898542 1.2583333,1.8916354 1.2367917,2.0757604 1.3365833,2.2039167 Z M 4.6664687,2.6685729 4.6143542,1.0805313 C 4.6089583,0.91625 4.4714167,0.78744792 4.3071354,0.79283333 4.1428333,0.79822917 4.0140417,0.93577083 4.0194375,1.1000521 L 4.0325833,1.5002083 2.9538021,0.11478125 C 2.8540104,-0.013375 2.6702292,-0.03761458 2.54075,0.05928125 2.4071354,0.15927083 2.3852396,0.35344792 2.4877708,0.485125 L 3.2886979,1.5137187 3.2417292,1.5502917 2.2543333,0.28222917 C 2.1545417,0.15407292 1.9707604,0.12983333 1.8412812,0.22672917 1.7076667,0.32671875 1.6857708,0.52089583 1.7883021,0.65257292 L 2.7720833,1.9159896 2.7251146,1.9525625 1.916,0.91345833 C 1.8162083,0.78530208 1.6324271,0.7610625 1.5029479,0.85795833 1.3693333,0.95794792 1.3474375,1.152125 1.4499687,1.2838021 l 0.5422188,0.6963437 c 0.1301771,-0.08601 0.3026562,-0.086302 0.4342708,0.00942 l 1.285,0.9345208 c 0.1135834,0.082604 0.1814063,0.2157813 0.1814063,0.3562292 V 3.4573854 L 4.5289479,2.9620833 A 0.35713542,0.35713542 0 0 0 4.6664687,2.6685729 Z"
+         id="path70745" />
+    </symbol>
+    <symbol
+       id="smile"
+       viewBox="0 0 512 512">
+      <title
+         id="smile-title">Smile</title>
+      <path
+         style="stroke-width:0.01041667"
+         inkscape:connector-curvature="0"
+         d="M 5.25,2.6666667 C 5.25,4.0934062 4.0934062,5.25 2.6666667,5.25 1.2399271,5.25 0.08333333,4.0934062 0.08333333,2.6666667 0.08333333,1.2399271 1.2399271,0.08333333 2.6666667,0.08333333 4.0934062,0.08333333 5.25,1.2399271 5.25,2.6666667 Z M 3.9736875,3.4514583 C 4.0932604,3.2665104 3.8138021,3.0848542 3.6937604,3.2704792 c -0.5564375,0.8606979 -1.4969791,0.8612604 -2.0537917,0 -0.1198125,-0.1853125 -0.399625,-0.00418 -0.279927,0.1809791 0.6876458,1.0636146 1.9249479,1.0652604 2.6136458,0 z M 1.125,2 c 0,0.3905937 0.3177396,0.7083333 0.7083333,0.7083333 0.3905938,0 0.7083334,-0.3177396 0.7083334,-0.7083333 0,-0.3905938 -0.3177396,-0.7083333 -0.7083334,-0.7083333 C 1.4427396,1.2916667 1.125,1.6094062 1.125,2 Z M 2.796875,2 C 2.796875,2.3877188 3.1122812,2.703125 3.5,2.703125 3.8877188,2.703125 4.203125,2.3877188 4.203125,2 4.203125,1.6122812 3.8877188,1.296875 3.5,1.296875 3.1122812,1.296875 2.796875,1.6122812 2.796875,2 Z M 3.5,1.5 A 0.49780208,0.49780208 0 0 0 3.2645521,1.558823 h 1.562e-4 c 0.1137084,0 0.2058854,0.092177 0.2058854,0.2058854 0,0.1137084 -0.092177,0.2058854 -0.2058854,0.2058854 -0.1137083,0 -0.2058854,-0.092177 -0.2058854,-0.2058854 V 1.7645521 A 0.49780208,0.49780208 0 0 0 3,2 C 3,2.2761458 3.2238542,2.5 3.5,2.5 3.7761458,2.5 4,2.2761458 4,2 4,1.7238542 3.7761458,1.5 3.5,1.5 Z m -1.6666667,0 A 0.49780208,0.49780208 0 0 0 1.5978854,1.558823 h 1.563e-4 c 0.1137083,0 0.2058854,0.092177 0.2058854,0.2058854 0,0.1137084 -0.092177,0.2058854 -0.2058854,0.2058854 -0.1137084,0 -0.2058855,-0.092177 -0.2058855,-0.2058854 V 1.7645521 A 0.49780208,0.49780208 0 0 0 1.3333333,2 c 0,0.2761458 0.2238542,0.5 0.5,0.5 0.2761459,0 0.5,-0.2238542 0.5,-0.5 0,-0.2761458 -0.2238541,-0.5 -0.5,-0.5 z"
+         id="path70765" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3424,9 +3479,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41432039"
-     inkscape:cx="2176.3327"
-     inkscape:cy="1690.5383"
+     inkscape:zoom="0.22321429"
+     inkscape:cx="2208"
+     inkscape:cy="2016"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3437,7 +3492,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
@@ -4425,13 +4480,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1119.8098"
-       y="-157.50818"
+       x="1072.1852"
+       y="-159.62482"
        id="text91825"><tspan
          id="tspan91823"
          sodipodi:role="line"
-         x="1119.8098"
-         y="-157.50818"
+         x="1072.1852"
+         y="-159.62482"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px">Tips and Tricks</tspan></text>
     <text
        id="text91831"
@@ -50875,7 +50930,7 @@
            id="rect108942" /></flowRegion><flowPara
          id="flowPara108946">Live repositories such as GitHub can synch with archive repositories to host both live and archived versions of code</flowPara></flowRoot>    <g
        id="g101105"
-       transform="translate(20.250589)">
+       transform="translate(20.250589,5.2916667)">
       <g
          transform="translate(9.8059114,-5.2916667)"
          id="g110056">
@@ -51088,6 +51143,74 @@
        transform="matrix(1.8285703,0,0,1.8285703,383.11467,-280.83609)"
        style="fill:#009100;stroke:none"
        xlink:href="#university"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,354.73791,-455.05379)"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:104px;line-height:0.45;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot101117"
+       xml:space="preserve"><flowRegion
+         style="line-height:0.45;"
+         id="flowRegion101109"><rect
+           style="line-height:0.45;"
+           y="1158.0052"
+           x="2248.3591"
+           height="863.49481"
+           width="635.25977"
+           id="rect101107" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101119">Start small! Begin by sharing your data and code with your paper and work up from there</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101290" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101135" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101141">DO cultivate a workflow</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101148"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101292" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101150">DO use others' workflows and templates for inspiration</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101139" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101294" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0.45;font-family:Lato;-inkscape-font-specification:Lato;"
+         id="flowPara101137">DO NOT worry too much about your code style. Everyone has a different approach.</flowPara></flowRoot>    <use
+       id="use101176"
+       transform="matrix(3.0476229,0,0,3.0476229,323.87608,-141.55023)"
+       style="fill:#000000;stroke:none"
+       xlink:href="#child"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use101201"
+       transform="matrix(3.1304347,0,0,3.1304347,878.74583,-295.48491)"
+       style="fill:#000000;stroke:none"
+       xlink:href="#sitemap"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use101226"
+       transform="matrix(3.1304347,0,0,3.1304347,878.74583,-250.29405)"
+       style="fill:#000000;stroke:none"
+       xlink:href="#users"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       id="use101276"
+       transform="matrix(3.5391703,0,0,3.5391703,698.34151,15.771923)"
+       style="fill:#000000;stroke:none"
+       xlink:href="#smile"
        x="0"
        y="0"
        width="100%"
