@@ -3359,9 +3359,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22321429"
-     inkscape:cx="2208"
-     inkscape:cy="2016"
+     inkscape:zoom="0.15783634"
+     inkscape:cx="1068.0952"
+     inkscape:cy="2120.935"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31295,21 +31295,6 @@
          x="251.30757"
          y="105.99135"
          style="fill:#666666;stroke-width:0.26458332px">Less Automated</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#d3d331;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 523.26353,-454.55103 32.09953,-6.22661 65.57242,0.10477"
-       id="path97422"
-       inkscape:connector-curvature="0"
-       inkscape:original-d="m 523.26353,-454.55103 c 8.68703,-3.98124 22.81008,-0.67382 32.09953,-6.22661 l 65.57242,0.10477"
-       inkscape:path-effect="#path-effect97424"
-       sodipodi:nodetypes="ccc" />
-    <ellipse
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d3d331;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2,1;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;font-variant-east_asian:normal"
-       id="path97447"
-       cx="501.60022"
-       cy="-468.11096"
-       rx="30.35144"
-       ry="19.346262" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot97475"
@@ -31359,16 +31344,16 @@
          id="flowPara97554"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot97556"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,1041.1167,-818.9894)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,962.18915,-789.88025)"><flowRegion
          id="flowRegion97558"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2d2d2d"><rect
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff"><rect
            id="rect97560"
-           width="251.00273"
-           height="80.733574"
+           width="181.56268"
+           height="89.69352"
            x="-1830.9305"
            y="1283.8536"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2d2d2d" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff" /></flowRegion><flowPara
          id="flowPara97566">License information shows who owns the work and how it can be used.</flowPara></flowRoot>    <g
        id="g98713"
        transform="translate(10.583333,5.2916667)">
@@ -33838,5 +33823,31 @@
            id="tspan98168"
            sodipodi:role="line">https://osf.io</tspan></text>
     </g>
-  </g>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,1034.4022,-560.22671)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot98741"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff"
+         id="flowRegion98737"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff"
+           y="1283.8536"
+           x="-1830.9305"
+           height="90.237038"
+           width="140.12834"
+           id="rect98735" /></flowRegion><flowPara
+         id="flowPara98739">Scan with your phone to see an example</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,649.98062,-758.65028)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot98749"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff"
+         id="flowRegion98745"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Lato;-inkscape-font-specification:'Lato, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ba00ff"
+           y="1283.8536"
+           x="-1830.9305"
+           height="89.69352"
+           width="181.56268"
+           id="rect98743" /></flowRegion><flowPara
+         id="flowPara98747">Data stored in a plain text format such as csv is best</flowPara></flowRoot>  </g>
 </svg>
