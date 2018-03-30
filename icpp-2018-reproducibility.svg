@@ -3480,8 +3480,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22321429"
-     inkscape:cx="2208"
-     inkscape:cy="2016"
+     inkscape:cx="2204.1363"
+     inkscape:cy="2014.0454"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4480,12 +4480,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1072.1852"
+       x="1119.8098"
        y="-159.62482"
        id="text91825"><tspan
          id="tspan91823"
          sodipodi:role="line"
-         x="1072.1852"
+         x="1119.8098"
          y="-159.62482"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:25.39999962px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';text-align:end;text-anchor:end;stroke-width:0.26458332px">Tips and Tricks</tspan></text>
     <text
@@ -4544,7 +4544,7 @@
    id="tspan91861">A case study of reproducible research in plant pathology</tspan></tspan></text>
     <use
        id="use122561"
-       transform="matrix(-4.8757658,0,0,4.8757658,627.62225,148.623)"
+       transform="matrix(-4.8757658,0,0,4.8757658,617.03891,148.623)"
        xlink:href="#emoji-1f389"
        x="0"
        y="0"
@@ -4557,7 +4557,7 @@
        y="0"
        x="0"
        xlink:href="#emoji-1f389"
-       transform="matrix(4.8757658,0,0,4.8757658,220.93325,148.623)"
+       transform="matrix(4.8757658,0,0,4.8757658,231.51659,148.623)"
        id="use122621"
        style="fill:#009100" />
     <rect
