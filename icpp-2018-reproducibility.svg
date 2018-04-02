@@ -3889,9 +3889,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22865854"
-     inkscape:cx="2211.3435"
-     inkscape:cy="2577.5868"
+     inkscape:zoom="0.45731707"
+     inkscape:cx="2317.75"
+     inkscape:cy="1835.9473"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -31385,17 +31385,6 @@
            width="537.27411"
            id="rect102226" /></flowRegion><flowPara
          id="flowPara102230">Docker container with continuous integration for automated analysis </flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="640.07996"
-       y="10.149326"
-       id="text96508"><tspan
-         sodipodi:role="line"
-         id="tspan96506"
-         x="640.07996"
-         y="10.149326"
-         style="stroke-width:0.26458332px">|</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1040.6482"
