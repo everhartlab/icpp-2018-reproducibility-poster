@@ -3891,7 +3891,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.45731707"
      inkscape:cx="2317.75"
-     inkscape:cy="1835.9473"
+     inkscape:cy="1925.6006"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4014,7 +4014,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
@@ -5134,7 +5134,7 @@
            y="655.2796"
            style="line-height:50%" /></flowRegion><flowPara
          id="flowPara122727"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato">One of the benefits of open research is that it's trivial to show that it is also reproducible.  If anyone can take your data, run your analyses/code, and obtain the same results, then the</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato">One of the benefits of open research is that it is simple to show that it is also reproducible.  If anyone can take your data, run your analyses/code, and obtain the same results, then the</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:50%;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara105354">research is reproducible! </flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,908.38515,-769.80002)"
